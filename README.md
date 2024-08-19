@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joseph Shibu</h1>
 <h3 align="center">Working To Bring Out The Best For Our Education System!!!</h3>
-<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com/?vCenter=true&width=500&lines=Machine+Learning+|+Game+Dev+|+Music;" height="40"/></h3>
+<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com/?vCenter=true&width=500&lines=Machine+Learning+|+Game+Development+|+Singer+-+Songwriter;" height="40"/></h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharkspidy" alt="sharkspidy" /></a> </p>
 
