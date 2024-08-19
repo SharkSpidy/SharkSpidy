@@ -30,5 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharkspidy&show_icons=true&locale=en" alt="sharkspidy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharkspidy&" alt="sharkspidy" /></p>
-
-<img src="https://stats.quine.sh/sharkspidy/languages-over-time?theme=dark" alt="top langs" align="center" />
