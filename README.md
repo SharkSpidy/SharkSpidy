@@ -1,2 +1,2 @@
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" height = "480" width="1280">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" width="700">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharkspidy&label=Profile%20views&color=0e75b6&style=flat" alt="sharkspidy" /> </p>
