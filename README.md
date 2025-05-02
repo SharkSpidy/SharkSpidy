@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   <a href="https://x.com/sharkspidy"><img src="https://img.shields.io/twitter/follow/sharkspidy?style=social" /></a>
-  <a href="https://linkedin.com/in/joseph-shibu-20533a291/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sharkspidy/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
