@@ -4,7 +4,7 @@
 <!--[Last Updated](https://img.shields.io/badge/last--update-today-brightgreen)-->
 <p align="center">
   <a href="https://github.com/sharkspidy">
-    <img src="https://github-readme-stats.vercel.app/api?username=sharkspidy&show_icons=false&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sharkspidy&show_icons=true&theme=tokyonight" />
   </a>
 </p>
 <p align="center">
