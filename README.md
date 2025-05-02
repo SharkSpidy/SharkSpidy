@@ -2,6 +2,12 @@
 <!--<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">-->
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <!--[Last Updated](https://img.shields.io/badge/last--update-today-brightgreen)-->
+<p align="center">
+  <img src="https://img.shields.io/badge/last--update-today-brightgreen" />
+  <img src="https://komarev.com/ghpvc/?username=sharkspidy&label=Profile%20views&color=0e75b6&style=bold" />
+  <img src="https://img.shields.io/github/followers/sharkspidy?label=Follow&style=social" />
+</p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/last--update-today-brightgreen" alt="sharkspidy" />
   <img align="right" src="https://komarev.com/ghpvc/?username=sharkspidy&label=Profile%20views&color=0e75b6&style=bold" alt="sharkspidy" />
