@@ -5,6 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=sharkspidy&label=Profile%20views&color=0e75b6&style=bold" />
   <img src="https://img.shields.io/github/followers/sharkspidy?label=Follow&style=social" />
 </p>
+<p align="center">
+  <a href="https://x.com/sharkspidy"><img src="https://img.shields.io/twitter/follow/sharkspidy?style=social" /></a>
+  <a href="https://linkedin.com/in/sharkspidy/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+</p>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <!--[Last Updated](https://img.shields.io/badge/last--update-today-brightgreen)-->
@@ -12,10 +16,6 @@
   <a href="https://github.com/sharkspidy">
     <img src="https://github-readme-stats.vercel.app/api?username=sharkspidy&show_icons=true&theme=tokyonight" />
   </a>
-</p>
-<p align="center">
-  <a href="https://x.com/sharkspidy"><img src="https://img.shields.io/twitter/follow/sharkspidy?style=social" /></a>
-  <a href="https://linkedin.com/in/sharkspidy/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
 </p>
 
 
