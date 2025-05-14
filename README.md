@@ -14,6 +14,13 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sharkspidy.dev-blue?style=for-the-badge&logo=internet-explorer)](https://sharkspidy.github.io)
 
+<p align="center">
+  <a href="https://sharkspidy.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-sharkspidy.dev-blue?style=for-the-badge&logo=internet-explorer" alt="Portfolio" />
+  </a>
+</p>
+
+
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <!--[Last Updated](https://img.shields.io/badge/last--update-today-brightgreen)-->
 <p align="center">
