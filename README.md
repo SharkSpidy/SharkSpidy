@@ -5,15 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=sharkspidy&label=Profile%20views&color=0e75b6&style=bold" />
   <img src="https://img.shields.io/github/followers/sharkspidy?label=Follow&style=social" />
 </p>
-<p align="center">
+<!-- <p align="center"> -->
 <!--   <a href="https://x.com/sharkspidy"><img src="https://img.shields.io/twitter/follow/sharkspidy?style=social" /></a> -->
 <!--   <a href="https://sharkspidy.github.io"><img src="https://img.shields.io/badge/Visit-Portfolio-blue?style=social&logo=internet-explorer" /></a> -->
 <!--   <a href="https://linkedin.com/in/sharkspidy/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a> -->
-</p>
-
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-sharkspidy.dev-blue?style=for-the-badge&logo=internet-explorer)](https://sharkspidy.github.io)
-
+<!-- </p> -->
 <p align="center">
   <a href="https://sharkspidy.github.io">
     <img src="https://img.shields.io/badge/Portfolio-sharkspidy.dev-blue?style=for-the-badge&logo=internet-explorer" alt="Portfolio" />
