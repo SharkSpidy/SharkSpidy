@@ -9,9 +9,10 @@
 <!--   <a href="https://x.com/sharkspidy"><img src="https://img.shields.io/twitter/follow/sharkspidy?style=social" /></a> -->
 <!--   <a href="https://sharkspidy.github.io"><img src="https://img.shields.io/badge/Visit-Portfolio-blue?style=social&logo=internet-explorer" /></a> -->
 <!--   <a href="https://linkedin.com/in/sharkspidy/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a> -->
-![Portfolio](https://img.shields.io/badge/Portfolio-sharkspidy.dev-blue?style=for-the-badge&logo=internet-explorer)](https://sharkspidy.github.io)
 </p>
 
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-sharkspidy.dev-blue?style=for-the-badge&logo=internet-explorer)](https://sharkspidy.github.io)
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <!--[Last Updated](https://img.shields.io/badge/last--update-today-brightgreen)-->
