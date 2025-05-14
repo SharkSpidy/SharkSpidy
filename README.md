@@ -1,10 +1,6 @@
 <!--<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="920">-->
 <!--<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">-->
-<p align="center">
-  <img src="https://img.shields.io/badge/last--update-today-brightgreen" />
-  <img src="https://komarev.com/ghpvc/?username=sharkspidy&label=Profile%20views&color=0e75b6&style=bold" />
-  <img src="https://img.shields.io/github/followers/sharkspidy?label=Follow&style=social" />
-</p>
+
 <!-- <p align="center"> -->
 <!--   <a href="https://x.com/sharkspidy"><img src="https://img.shields.io/twitter/follow/sharkspidy?style=social" /></a> -->
 <!--   <a href="https://sharkspidy.github.io"><img src="https://img.shields.io/badge/Visit-Portfolio-blue?style=social&logo=internet-explorer" /></a> -->
@@ -24,7 +20,11 @@
     <img src="https://github-readme-stats.vercel.app/api?username=sharkspidy&show_icons=true&theme=tokyonight" />
   </a>
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/last--update-today-brightgreen" />
+  <img src="https://komarev.com/ghpvc/?username=sharkspidy&label=Profile%20views&color=0e75b6&style=bold" />
+  <img src="https://img.shields.io/github/followers/sharkspidy?label=Follow&style=social" />
+</p>
 
 <!--<p align="left">
   <img src="https://img.shields.io/badge/last--update-today-brightgreen" alt="sharkspidy" />
