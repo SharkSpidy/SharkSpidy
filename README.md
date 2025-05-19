@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://sharkspidy.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-sharkspidy.dev-blue?style=for-the-badge&logo=internet-explorer" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-sharkspidy-blue?style=for-the-badge&logo=internet-explorer" alt="Portfolio" />
   </a>
 </p>
 
