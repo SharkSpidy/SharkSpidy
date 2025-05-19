@@ -25,7 +25,7 @@
 <!-- </p> -->
 <p align="center">
   <A href = "https://img.shields.io/badge/last--update-today-brightgreen">
-  <img src="https://img.shields.io/badge/Portfolio-sharkspidy-blue?style=for-the-badge&logo=internet-explorer" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Last-Update-blue?style=for-the-badge&logo=internet-explorer" alt=""/>
   <img src="https://komarev.com/ghpvc/?username=sharkspidy&label=Profile%20views&color=0e75b6&style=bold" />
   <img src="https://img.shields.io/github/followers/sharkspidy?label=Follow&style=social" />
 </p>
