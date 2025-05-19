@@ -22,7 +22,7 @@
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=sharkspidy&show_icons=true&theme=tokyonight" /> -->
 <!--   </a> -->
 <!-- </p> -->
-<p align="center">
+<!--<p align="center">
   <img src="https://img.shields.io/badge/last--update-today-brightgreen" />
   <img src="https://komarev.com/ghpvc/?username=sharkspidy&label=Profile%20views&color=0e75b6&style=bold" />
   <img src="https://img.shields.io/github/followers/sharkspidy?label=Follow&style=social" />
