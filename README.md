@@ -1,12 +1,12 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
+---
+
 <p align="center">
   <a href="https://sharkspidy.github.io">
     <img src="https://img.shields.io/badge/Portfolio-sharkspidy-blue?style=for-the-badge&logo=internet-explorer" alt="Portfolio" />
   </a>
 </p>
-
----
 <!--### ✍️ Random Dev Quote -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
