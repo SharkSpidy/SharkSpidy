@@ -1,4 +1,3 @@
-
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 <p align="center">
@@ -21,7 +20,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=SharkSpidy&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SharkSpidy&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
-### ✍️ Random Dev Quote
+<!--### ✍️ Random Dev Quote -->
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
