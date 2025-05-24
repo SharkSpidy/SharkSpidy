@@ -5,7 +5,13 @@
     <img src="https://img.shields.io/badge/Portfolio-sharkspidy-blue?style=for-the-badge&logo=internet-explorer" alt="Portfolio" />
   </a>
 </p>
+---
+<!--### ✍️ Random Dev Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+</p>
 
+---
 <p align="center">
   <img src="https://img.shields.io/badge/last--update-today-brightgreen" alt="sharkspidy" />
   <img src="https://komarev.com/ghpvc/?username=sharkspidy&label=Profile%20views&color=0e75b6&style=bold" />
@@ -19,11 +25,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=SharkSpidy&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SharkSpidy&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SharkSpidy&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
----
-<!--### ✍️ Random Dev Quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
-</p>
 
----
 
